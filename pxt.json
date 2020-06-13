@@ -1,0 +1,23 @@
+{
+    "name": "adafruit feather m0 express",
+    "description": "",
+    "dependencies": {
+        "adafruit-feather-m0-express": "*",
+        "color-sensor": "*",
+        "display": "*",
+        "jacdac-services": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
